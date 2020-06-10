@@ -1,0 +1,185 @@
+body {
+    padding: 25px;
+    font-family: 'Lusitana', serif !important;
+    background-image: url(./Resources/e.jpg);
+    
+}
+ 
+
+ #happy {
+    background-image: url(./Resources/rge.jpg);
+    color: darkblue;
+     position: relative;
+     padding: 25px;
+     overflow-x: auto;
+     border: 10px;
+     margin: 50px;
+     font-family: 'Lusitana', serif !important;
+     font-size: 50px;
+     width: 25%;
+     align-content: center;   
+     text-align: center;
+     margin: 25px 450px;
+}
+
+ #jumbotron{
+     color: rgb(0, 0, 0);
+     text-align: left;
+     overflow: auto;
+     margin: 10px;
+     font-family: 'Lusitana', serif !important;
+     font-size: larger;
+ }
+
+ #heading{
+     color: rgb(41, 26, 143);
+     text-align: relative;
+     overflow: auto;
+     padding: 10px;
+     border: 10px;
+     margin: 10px;
+     font-family: 'Lusitana', serif !important;
+     font-size: medium;
+ }
+
+ #list{
+     color: rgb(0, 0, 0);
+     text-align: left;
+     overflow: auto;
+     padding: 10px;
+     border: 10px;
+     margin: 10px; 
+     font-family: 'Lusitana', serif !important;
+     font-size: medium;
+ }
+
+.subtopics{
+     color: rgb(21, 55, 117);
+     text-align: center;
+     overflow: auto;
+     padding: 10px;
+     border: 10px;
+     margin: 10px;
+     font-family: 'Lusitana', serif !important; 
+     font-size: medium;           
+ }
+
+ .info {
+     color: rgb(0, 0, 0);
+     overflow: auto;
+     padding: 10px;
+     border: 10px;
+     margin: 10px;
+     font-family: 'Lusitana', serif !important;
+     font-size: medium;
+ }
+
+  image {
+      position: reltive;
+      shape-image-threshold: center;
+      width: auto;
+      height: auto;
+  }
+
+  img {
+      height: 100px;
+      margin: 100px 25px;
+      padding: 15px;
+      margin: 10px;
+      width: 500px;
+      height: 250px;
+      
+  }
+
+
+ #a {
+    overflow: auto;
+    width: 25%;
+    background-color: azure;
+}
+
+ #b {
+    overflow: auto;
+    width: 25%;
+    background-color: azure;
+    position: relative;
+    margin: 0px 450px;
+    background-position: 141px;
+}
+
+#c {
+    overflow: auto;
+    width: 25%;
+    background-color: azure;
+    margin: 0px 920px;
+}
+
+#d {
+    overflow: auto;
+    width: 25%;
+    background-color: azure;
+}
+
+#e {
+    overflow: auto;
+    width: 25%;
+    background-color: azure;
+    margin: 0px 450px;
+}
+
+#f {
+    overflow: auto;
+    width: 25%;
+    background-color: azure;
+    margin: 0px 920px;
+}
+
+#g {
+    overflow: auto;
+    width: 25%;
+    background-color: azure;
+    margin: 0px 450px;
+}
+
+body {
+    margin-left: 100px !important;
+    margin-top: 50px;
+    font-size: medium !important;
+    text-align: center !important;
+    margin-right: 100px !important;
+    
+}
+
+#joy {
+    background-color: lightblue;
+    font-size: medium;
+    width: 20%;
+    text-align: center;
+    
+}
+
+#mango {
+   background-color: lightgoldenrodyellow;
+   width: 25%;
+   font-size: large;
+   padding: 5px;
+   text-align: left;
+}
+
+#idk {
+    text-align: center;
+}
+
+#srl {
+    margin-left: inherit;
+    margin-right: inherit;
+    background-image: url(./Resources/finn.jpg);
+    color: white;
+    width: 50%;
+    object-position: center;
+    margin-left: 450px;
+}
+
+.wat {
+    color: rgb(212, 182, 182);
+}
